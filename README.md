@@ -36,6 +36,17 @@ An ideal solution should incorporate the following elements in a creative, immer
 
 ---
 
+# Judging Criteria
+
+Projects will be judged based on the following:
+
+- **Idea** - Uniqueness of innovation, creativity in execution, demonstrated value
+- **Design** - Ease of use and design appeal
+- **Implementation** - Functionality and code quality; excellence and technique in execution
+- **Presentation** - Demonstrated team collaboration; excellence in storytelling and pitching; presence and engagement
+
+---
+
 # Required AI Integration
 
 Each team must use or implement AI in at least one area of the project. AI should enhance the Tech Futures experience and should not replace the core application functionality.
